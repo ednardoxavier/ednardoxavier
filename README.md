@@ -61,3 +61,5 @@ Analista de testes apaixonado por garantir a qualidade de cada aplicação. Busc
   <a href="https://api.whatsapp.com/send?phone=5561998385738" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     
 </div>
+
+![snake gif](https://github.com/Carla-Franco/Carla-Franco/blob/output/github-contribution-grid-snake.svg)
