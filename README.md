@@ -1,4 +1,4 @@
-### Olá, meu nome é Ednardo e sou um Analista de Testes! 👋</br>
+### Olá, meu nome é Ednardo e sou um QA Engineer! 👋</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ednardoxavier&show_icons=true&theme=radical)
 
@@ -18,8 +18,10 @@
 </div>
 </br>
 
- * RestAssured 
+ * RestAssured
+ * Cypress
   * MindMap
+  * Appium
   * Gherkin
   * BDD
   * Scrum
