@@ -1,4 +1,3 @@
-```md
 # Olá, eu sou Ednardo Xavier 👋
 
 ## QA Engineer | Automation | Mobile | API | Quality Engineering
